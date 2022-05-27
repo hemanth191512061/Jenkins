@@ -47,6 +47,8 @@ public class TicketBook {
 		
 		ele2.sendKeys(Keys.ENTER);
 		
+		Thread.sleep(2000);   
+		
 		web.close();
 		
 		
